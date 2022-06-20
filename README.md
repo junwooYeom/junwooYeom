@@ -1,3 +1,6 @@
+** JunWoo Yeom **
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junwooYeom&langs_count=8&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwooYeom&show_icons=true&custom_title=Junwoo's_GitHub_Stats&theme=radical&count_private=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
